@@ -1,5 +1,0 @@
-Error : Method 'initialization' not found. Opening the test case.
-
-Reason : Basic Junit Error. We got this error because there is no @Test annotaion on top of the test case.
-
-Solution : Add @Test annotation on top of the test case.
